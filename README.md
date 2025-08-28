@@ -45,4 +45,16 @@ Focused on actionable analytics to support decision-making.
 
 ### 📸 Dashboard Snapshot
 
-https://github.com/laibashaheeen/Awesome_Chocolates/blob/main/dashboard.png
+[Snapshot](https://github.com/laibashaheeen/Awesome_Chocolates/blob/main/dashboard.png)
+
+### 📂 How to Use the .pbix File
+
+Download and install [Power BI Desktop (free)](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
+
+Open Power BI Desktop → File → Open → Browse → select the .pbix file.
+
+Explore the dashboard in Report View (visuals), Data View (tables), and Model View (relationships).
+
+Interact with filters, slicers, and charts to analyze the data.
+
+(Optional) Publish to Power BI Service to share online or export to PDF/PowerPoint for reporting
