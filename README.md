@@ -44,3 +44,5 @@ Enabled stakeholders to quickly identify trends and insights.
 Focused on actionable analytics to support decision-making.
 
 ### 📸 Dashboard Snapshot
+
+https://github.com/laibashaheeen/Awesome_Chocolates/blob/main/dashboard.png
